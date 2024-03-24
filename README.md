@@ -1,2 +1,2 @@
 # Number_Guessing_Game
-CMD Number Guessing Game depend on inquirer
+CMD Number Guessing Game CLI based
